@@ -15,7 +15,7 @@
         "pages": [
           "index",
           {
-            "path": "getting-started",
+            "path": "gettingstarted",
             "title": "Getting Started"
           }
         ]
