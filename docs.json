@@ -47,9 +47,10 @@
       {
         "group": "Adding Events and Reservations",
         "pages": [
-          "events-reservations/notifications",
-          "events-reservations/exporting-daysheets",
-          "events-reservationsd/calendar-feeds"
+          "events-reservations/import-flights",
+          "events-reservations/schedules",
+          "events-reservations/lodging",
+          "events-reservationsd/transfers"
         ]
       },
       {
