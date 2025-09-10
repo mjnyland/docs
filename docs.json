@@ -12,7 +12,12 @@
     "groups": [
       {
         "group": "Getting started",
-        "pages": ["index", "getting-started"]
+        "pages": [
+          "index",
+          "getting-started/download-daysheets",
+          "getting-started/create-account",
+          "getting-started/create-tour"
+        ]
       }
     ]
   },
