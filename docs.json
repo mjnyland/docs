@@ -12,7 +12,7 @@
     "groups": [
       {
         "group": "Getting started",
-        "pages": ["index", "gettingstarted"]
+        "pages": ["index", "getting-started"]
       }
     ]
   },
