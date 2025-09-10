@@ -44,6 +44,15 @@
           "getting-started/exporting-daysheets",
           "getting-started/calendar-feeds"
         ]
+      },
+      {
+        "group": "Adding Events and Reservations",
+        "pages": [
+          "index",
+          "getting-started/notifications",
+          "getting-started/exporting-daysheets",
+          "getting-started/calendar-feeds"
+        ]
       }
     ]
   },
