@@ -50,7 +50,7 @@
           "events-reservations/import-flights",
           "events-reservations/schedules",
           "events-reservations/lodging",
-          "events-reservationsd/transfers"
+          "events-reservations/transfers"
         ]
       },
       {
