@@ -18,6 +18,15 @@
           "getting-started/create-account",
           "getting-started/create-tour"
         ]
+      },
+      {
+        "group": "Personnel & Travel Profiles",
+        "pages": [
+          "index",
+          "getting-started/download-daysheets",
+          "getting-started/create-account",
+          "getting-started/create-tour"
+        ]
       }
     ]
   },
