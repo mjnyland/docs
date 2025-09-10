@@ -23,9 +23,18 @@
         "group": "Personnel & Travel Profiles",
         "pages": [
           "index",
-          "getting-started/download-daysheets",
-          "getting-started/create-account",
-          "getting-started/create-tour"
+          "personnel/personnel-overview",
+          "personnel/creating-groups",
+          "personnel/adding-personnel",
+          "personnel/importing-personnel",
+          "personnel/connections",
+          "personnel/viewing-personnel",
+          "personnel/permissions-visibility",
+          "personnel/inviting-personnel",
+          "personnel/requesting-profiles",
+          "personnel/sharing-profiles",
+          "personnel/daysheets-data",
+          "personnel/disconnecting"
         ]
       }
     ]
