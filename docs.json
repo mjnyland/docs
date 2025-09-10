@@ -22,7 +22,6 @@
       {
         "group": "Personnel & Travel Profiles",
         "pages": [
-          "index",
           "personnel/personnel-overview",
           "personnel/creating-groups",
           "personnel/adding-personnel",
