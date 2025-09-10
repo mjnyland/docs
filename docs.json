@@ -12,13 +12,7 @@
     "groups": [
       {
         "group": "Getting started",
-        "pages": [
-          "index",
-          {
-            "path": "gettingstarted",
-            "title": "Getting Started"
-          }
-        ]
+        "pages": ["index", "gettingstarted"]
       }
     ]
   },
