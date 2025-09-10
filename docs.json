@@ -39,17 +39,17 @@
       {
         "group": "General Guides",
         "pages": [
-          "getting-started/notifications",
-          "getting-started/exporting-daysheets",
-          "getting-started/calendar-feeds"
+          "general/notifications",
+          "general/exporting-daysheets",
+          "general/calendar-feeds"
         ]
       },
       {
         "group": "Adding Events and Reservations",
         "pages": [
-          "getting-started/notifications",
-          "getting-started/exporting-daysheets",
-          "getting-started/calendar-feeds"
+          "events-reservations/notifications",
+          "events-reservations/exporting-daysheets",
+          "events-reservationsd/calendar-feeds"
         ]
       },
       {
