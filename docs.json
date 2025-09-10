@@ -39,7 +39,6 @@
       {
         "group": "General Guides",
         "pages": [
-          "index",
           "getting-started/notifications",
           "getting-started/exporting-daysheets",
           "getting-started/calendar-feeds"
@@ -48,10 +47,31 @@
       {
         "group": "Adding Events and Reservations",
         "pages": [
-          "index",
           "getting-started/notifications",
           "getting-started/exporting-daysheets",
           "getting-started/calendar-feeds"
+        ]
+      },
+      {
+        "group": "Mobile Guides",
+        "pages": [
+          "mobile/getting-started-ios",
+          "mobile/push-notifications",
+          "mobile/delete-account",
+          "mobile/sharing-travel-profiles",
+          "mobile/toggle-filter",
+          "mobile/reorder-dayview",
+          "mobile/adding-flights",
+          "mobile/adding-personnel",
+          "mobile/adding-flights",
+          "mobile/adding-personnel",
+          "mobile/adding-lodging",
+          "mobile/adding-files",
+          "mobile/android-guide",
+          "mobile/creating-a-tour",
+          "mobile/push-notficications",
+          "mobile/adding-exporting-guest-list",
+          "mobile/editing-profile"
         ]
       }
     ]
