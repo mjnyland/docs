@@ -56,7 +56,7 @@
         "group": "Mobile Guides",
         "pages": [
           "mobile/getting-started-ios",
-          "mobile/push-notifications",
+          "mobile/mobile-push-notifications",
           "mobile/delete-account",
           "mobile/sharing-travel-profiles",
           "mobile/toggle-filter",
@@ -67,7 +67,7 @@
           "mobile/adding-files",
           "mobile/android-guide",
           "mobile/creating-a-tour",
-          "mobile/mobile-push-notifications",
+          "mobile/sending-push-notifications",
           "mobile/adding-exporting-guest-list",
           "mobile/editing-profile"
         ]
