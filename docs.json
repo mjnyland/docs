@@ -14,63 +14,63 @@
         "group": "Getting started",
         "pages": [
           "index",
-          "getting-started/download-daysheets",
-          "getting-started/create-account",
-          "getting-started/create-tour"
+          "pages/getting-started/download-daysheets",
+          "pages/getting-started/create-account",
+          "pages/getting-started/create-tour"
         ]
       },
       {
         "group": "Personnel & Travel Profiles",
         "pages": [
-          "personnel/personnel-overview",
-          "personnel/creating-groups",
-          "personnel/adding-personnel",
-          "personnel/importing-personnel",
-          "personnel/connections",
-          "personnel/viewing-personnel",
-          "personnel/permissions-visibility",
-          "personnel/inviting-personnel",
-          "personnel/requesting-profiles",
-          "personnel/sharing-profiles",
-          "personnel/daysheets-data",
-          "personnel/disconnecting"
+          "pages/personnel/personnel-overview",
+          "pages/personnel/creating-groups",
+          "pages/personnel/adding-personnel",
+          "pages/personnel/importing-personnel",
+          "pages/personnel/connections",
+          "pages/personnel/viewing-personnel",
+          "pages/personnel/permissions-visibility",
+          "pages/personnel/inviting-personnel",
+          "pages/personnel/requesting-profiles",
+          "pages/personnel/sharing-profiles",
+          "pages/personnel/daysheets-data",
+          "pages/personnel/disconnecting"
         ]
       },
       {
         "group": "General Guides",
         "pages": [
-          "general/notifications",
-          "general/exporting-daysheets",
-          "general/calendar-feeds"
+          "pages/general/notifications",
+          "pages/general/exporting-daysheets",
+          "pages/general/calendar-feeds"
         ]
       },
       {
         "group": "Adding Events and Reservations",
         "pages": [
-          "events-reservations/import-flights",
-          "events-reservations/schedules",
-          "events-reservations/lodging",
-          "events-reservations/transfers"
+          "pages/events-reservations/import-flights",
+          "pages/events-reservations/schedules",
+          "pages/events-reservations/lodging",
+          "pages/events-reservations/transfers"
         ]
       },
       {
         "group": "Mobile Guides",
         "pages": [
-          "mobile/getting-started-ios",
-          "mobile/enabling-push-notifications",
-          "mobile/delete-account",
-          "mobile/sharing-travel-profiles",
-          "mobile/toggle-filter",
-          "mobile/reorder-dayview",
-          "mobile/adding-flights",
-          "mobile/adding-personnel",
-          "mobile/adding-lodging",
-          "mobile/adding-files",
-          "mobile/android-guide",
-          "mobile/creating-a-tour",
-          "mobile/sending-push-notifications",
-          "mobile/adding-exporting-guest-list",
-          "mobile/editing-profile"
+          "pages/mobile/getting-started-ios",
+          "pages/mobile/enabling-push-notifications",
+          "pages/mobile/delete-account",
+          "pages/mobile/sharing-travel-profiles",
+          "pages/mobile/toggle-filter",
+          "pages/mobile/reorder-dayview",
+          "pages/mobile/adding-flights",
+          "pages/mobile/adding-personnel",
+          "pages/pages/mobile/adding-lodging",
+          "pages/mobile/adding-files",
+          "pages/mobile/android-guide",
+          "pages/mobile/creating-a-tour",
+          "pages/mobile/sending-push-notifications",
+          "pages/mobile/adding-exporting-guest-list",
+          "pages/mobile/editing-profile"
         ]
       }
     ]
