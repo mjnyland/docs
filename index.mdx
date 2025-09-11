@@ -1,8 +1,184 @@
 ---
-title: "Introduction"
-description: "Welcome to the new home for your documentation"
+title: "Component Examples"
+description: "See all relevant component examples below"
 ---
 
-## Setting up.
+## Main section header
 
-Get your documentation site up and running in minutes.
+### Subsection header
+
+#### Sub-subsection header
+
+**bold text**
+
+_italic text_
+
+~strikethrough text~
+
+**_bold and italic_**
+**~~bold and strikethrough~~** \*~~italic and strikethrough~~\*\*
+
+> This is a quote that stands out from the main content.
+
+> This is the first paragraph of a multi-line blockquote.
+>
+> This is the second paragraph, separated by an empty line with `>`.
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+- First item
+- Second item
+  - Additional item
+  - Additional item
+- Third item
+
+| Test | Table   |
+| ---- | ------- |
+| 1    | testing |
+| 2    | testing |
+| 3    | testing |
+
+<AccordionGroup>
+  <Accordion title="Getting started">
+    You can put other components inside Accordions.
+
+    ```java HelloWorld.java
+    class HelloWorld {
+        public static void main(String[] args) {
+            System.out.println("Hello, World!");
+        }
+    }
+    ```
+
+  </Accordion>
+
+{" "}
+
+<Accordion title="Advanced features" icon="alien-8bit">
+  Add icons to make accordions more visually distinct and scannable.
+</Accordion>
+
+  <Accordion title="Troubleshooting">
+    Keep related content organized into groups.
+  </Accordion>
+</AccordionGroup>
+
+<Note>This adds a note in the content</Note>
+
+<Warning>This raises a warning to watch out for</Warning>
+
+<Info>This draws attention to important information</Info>
+
+<Tip>This suggests a helpful tip</Tip>
+
+<Check>This brings us a checked status</Check>
+
+<Danger>This is a danger callout</Danger>
+
+<Callout icon="key" color="#FFC107" iconType="regular">
+  This is a custom callout
+</Callout>
+
+<Card title="Card title" icon="text" href="/components/columns">
+  This is how you use a card with an icon and a link. Clicking on this card
+  brings you to the Columns page.
+</Card>
+
+<Card title="Horizontal card" icon="text" horizontal>
+  This is an example of a horizontal card.
+</Card>
+
+<Card
+  title="Image card"
+  img="/images/getting-started/download-daysheets/download-screen.png"
+>
+  This is an example of a card with an image.
+</Card>
+
+<Columns cols={2}>
+  <Card title="First card" icon="panel-left-close">
+    This is the first card.
+  </Card>
+  <Card title="Second card" icon="panel-right-close">
+    This is the second card.
+  </Card>
+</Columns>
+
+<ResponseField name="user" type="User Object">
+  <Expandable title="properties">
+    <ResponseField name="full_name" type="string">
+      The full name of the user
+    </ResponseField>
+
+    <ResponseField name="is_over_21" type="boolean">
+      Whether the user is over 21 years old
+    </ResponseField>
+
+  </Expandable>
+</ResponseField>
+
+<Frame>
+  <img
+    src="/images/getting-started/download-daysheets/download-screen.png"
+    alt="Descriptive alt text"
+  />
+</Frame>
+
+<Icon icon="flag" size={32} />
+
+<Steps>
+  <Step title="First Step">
+    These are instructions or content that only pertain to the first step.
+  </Step>
+  <Step title="Second Step">
+    These are instructions or content that only pertain to the second step.
+  </Step>
+  <Step title="Third Step">
+    These are instructions or content that only pertain to the third step.
+  </Step>
+</Steps>
+
+<Tabs>
+  <Tab title="First tab">
+    ☝️ Welcome to the content that you can only see inside the first tab.
+
+    You can add any number of components inside of tabs. For example, a code block:
+    ```java HelloWorld.java
+      class HelloWorld {
+          public static void main(String[] args) {
+              System.out.println("Hello, World!");
+          }
+      }
+    ```
+
+  </Tab>
+  <Tab title="Second tab" icon="leaf">
+    ✌️ Here's content that's only inside the second tab.
+
+    This one has a <Icon icon="leaf" /> icon!
+
+  </Tab>
+  <Tab title="Third tab">
+    💪 Here's content that's only inside the third tab.
+  </Tab>
+</Tabs>
+
+<Tooltip
+  tip="Application Programming Interface: a set of protocols for software applications to communicate."
+  cta="Read our API guide"
+  href="/api-reference"
+>
+  API
+</Tooltip> documentation helps developers understand how to integrate with your service.
+
+<Update label="2024-10-11" description="v0.1.0" tags={["Mintlify"]}>
+  This is an update with a label, description, and tag.
+</Update>
